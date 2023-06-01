@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 Languages and Tools
-![image](https://github.com/seong-94/seong-94/assets/68951572/76b25e32-6cb2-4438-b475-6475cbd00e86),
+![image](https://github.com/seong-94/seong-94/assets/68951572/33f97194-3993-420d-89b2-28b91d88eca9)
+
 
